@@ -27,7 +27,53 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="paragraph">
+           <Header>A + M College<lb/>Raleigh, <dateline>Feb 28 1994.</dateline></Header>
+             <lb/>
+             <lb/>
+           <Salute>Dear Sister.</Salute>
+             <lb/>
+        </div>
+        <div type="page 1">Your letter to me was received Monday the 19th 
+                           and I was glad to get it too, it was the first time 
+                           you rletters were more than a week a part. 
+                           I don't believe anything unusual has happened 
+                           since I wrote to Lucy the first part of the week. 
+                           We did not have any of that snow that you all had, 
+                           we had wind and a little snow but did not any stay on
+                           the houses even. I don't know whither I to Lucy about how
+                           we were going to get a long with one suit of uniform.
+                           We wont hvae to wear the uniform all the time and wont
+                           have to wear it on Sundays. <lb/>
+        </div>
+        <lb/>
+        <div type="page 2">We will have to get the uniform about the middle of March.
+                           One of our Professor has just gotten back from his home
+                           where he went to attend his fathers funeral. Col. Holladay
+                           has just gotten back from the NEWBORN fair, he said he 
+                           would have had a very pleasant time if it had not been such
+                           a crowd. Prof. Irby has gone to Statesville to a farmers meeting.
+                           Prof. Massey gave us a little talk, as he called it, in the chapel
+                           tonight. I think he will also go to Statesville tonight. I have 
+                           two jobs for me tomorrow, one is with Mr. Skinner the other is
+                           helping Mrs. Holladay _____. I had rather help Mrs. Holladay 
+                           to move but as I promised Mr. Skinner to work for <lb/>
+        </div>
+        <lb/>
+        <div type="Page 3">him I reckon I will have to work for him. I debated
+                           in my society tonight for first time in I dont know when.
+                           I started a letter to Jud last Sunday and ____ it up 
+                           before I finished it, and have not finished it yet.
+                           I reckon Walter has written you all the news so I will close
+                           with love to all I shall ever remain your loving Bro.
+        <closer><signed>G. T. Bullock</signed></closer>
+        </div>
+          
+          
+          
+          
+        
+         
       </body>
   </text>
 </TEI>
