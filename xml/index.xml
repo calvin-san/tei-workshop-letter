@@ -31,12 +31,15 @@
            <Header>A + M College<lb/>Raleigh, <dateline>Feb 28 1994.</dateline></Header>
              <lb/>
              <lb/>
-           <Salute>Dear Sister.</Salute>
-             <lb/>
+           <Salute><add>Dear</add> Sister.</Salute>
         </div>
         <div type="page 1">Your letter to me was received Monday the 19th 
                            and I was glad to get it too, it was the first time 
-                           you rletters were more than a week a part. 
+                           your letters were more than a week 
+                        <choice>
+                          <sic>a part</sic>
+                          <corr>apart</corr>
+                        </choice>. 
                            I don't believe anything unusual has happened 
                            since I wrote to Lucy the first part of the week. 
                            We did not have any of that snow that you all had, 
